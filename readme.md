@@ -7,7 +7,7 @@ https://stackoverflow.com/questions/41656571/debugging-asp-net-core-1-1-mvc-sour
 it automates the steps 4 - 7 and specifically:
 * modifies our solution file appropriately in order to include automatically all the required projects from the asp.net core open source code.
 * modifies our `{our_project_name}.csproj` by adding all the required project references
-* modifies all the `\*.csproj` files inside the `src\` folder of the asp.net core open source code. It actually automates step 4.
+* modifies all the `*.csproj` files inside the `src\` folder of the asp.net core open source code. It actually automates step 4.
 
 Before the modification of our solution and project files, a backup is created of the two files. Thus if want to revert back our existing project to its initial state, we just delete the modified solution and project files and rename the two respective files with `.backup` extension.
 ***
