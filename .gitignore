@@ -1,0 +1,7 @@
+#untracked list in root folder
+/*.txt
+#exclude .vs folder from the tracking list
+.vs/
+#exclude bin folder where all the binaries are located
+bin/
+obj/
