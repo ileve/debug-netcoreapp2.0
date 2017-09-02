@@ -1,2 +1,2 @@
-E:\programming\DVD\C#.NET\Internet\MVC-asp.net_core\WebApinoprojs2.0\WebApinoprojs2.0.sln
-E:\programming\DVD\C#.NET\Internet\MVC-asp.net_core\WebApinoprojs2.0\WebApinoprojs2.0\WebApinoprojs2.0.csproj
+C:\MVC-asp.net_core\WebApinoprojs2.0\WebApinoprojs2.0.sln
+C:\MVC-asp.net_core\WebApinoprojs2.0\WebApinoprojs2.0\WebApinoprojs2.0.csproj
